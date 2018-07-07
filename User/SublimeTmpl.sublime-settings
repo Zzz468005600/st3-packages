@@ -1,0 +1,9 @@
+{
+	"disable_keymap_actions": false, // "all"; "html,css"
+    "date_format" : "%Y-%m-%d %H:%M:%S",
+    "attr": {
+        "author": "zhulei",
+        "email": "zhuleimailname@gmail.com",
+        "link": "http://zhuleiblog.com"
+    }
+}
